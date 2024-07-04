@@ -1,2 +1,2 @@
 # program1
-new
+hello world
